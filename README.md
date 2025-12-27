@@ -1,0 +1,1 @@
+This is a technical trial for GEJ (Global Entrepreneur Journey) Cross-Border Project regarding visually impaired individuals' detection of silent mobility devices (electric scooters, bicycles, etc). This project may 1) use machine learning to learn to detect far-off vehicle sound or 2) learn to detect vehicle sounds based on frequency form already known data
